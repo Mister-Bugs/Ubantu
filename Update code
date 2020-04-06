@@ -1,0 +1,8 @@
+sudo apt update
+sudo apt upgrade
+
+if it not work
+{
+  sudo apt-get update
+  sudo apt-get upgrade
+}
